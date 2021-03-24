@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Network Slayin' All Over The World!
     content: >
-      Hi! I'm Derek King, and this is my blog. I work as a Principal Security
-      Consultant and live in the UK. I travel the world for work and pleasure.
+      Hi! I'm Derek King, and this is my blog. I am a Principal Security
+      Consultant and MVP at Splunk. 
   - section_id: about
     type: section_content
     title: About
