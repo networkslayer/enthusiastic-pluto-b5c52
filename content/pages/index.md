@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Network Slayin' All Over The World!
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Hi! I'm Derek King, and this is my blog. I work as a Principal Security
+      Consultant and live in the UK. I travel the world for work and pleasure.
   - section_id: about
     type: section_content
     title: About
