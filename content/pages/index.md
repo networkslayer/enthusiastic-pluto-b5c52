@@ -6,8 +6,7 @@ sections:
     type: section_hero
     title: Network Slayin' All Over The World!
     content: >
-      Hi! I'm Derek King, and this is my blog. I am a Principal Security
-      Consultant and MVP at Splunk. 
+      Hi! I'm Derek King, and this is my blog. I am a Sr Staff Security Engineer at Databricks. 
   - section_id: about
     type: section_content
     title: About
